@@ -1,3 +1,5 @@
+![Image](/assets/images/bic_logo.png)
+
 ## Welcome to BIC Software Pages
 
 The activities of the Bioengineering and Computing Laboratory (BIC) are finalized to study the biomechanics of the musculoskeletal system by using numerical modeling at different scales, from system to micro-structure.
