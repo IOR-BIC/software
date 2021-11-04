@@ -12,7 +12,16 @@ The strategic activities of the BiC Lab are:
 2. Development of software tools for computational bioengineering
 3. Development of Decision Support Systems for the clinics, such as solutions for surgical planning of complex skeletal reconstructions
 
-### Markdown
+### Applications
+
+![Image](/assets/images/App-nmsBuilder.png)
+![Image](/assets/images/App-HTO-Planner.png)
+
+![Image](/assets/images/App-Calcify2D.png)
+![Image](/assets/images/App-AssemblerPro.png)
+
+![Image](/assets/images/App-Classify3D.png)
+![Image](/assets/images/App-HipOp.png)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -35,3 +44,7 @@ Syntax highlighted code block
 ```
 
 For more details see [BIC official website](http://www.ior.it/en/dipartimento-rizzoli-rit/lab-bic/bic-laboratory).
+
+![Image](/assets/images/social-linkedIn-350x350.png)
+![Image](/assets/images/social-youtube-350x350.png)
+![Image](/assets/images/social-facebook-350x350.png)
