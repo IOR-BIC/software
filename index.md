@@ -1,8 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to BIC Software Pages
 
-You can use the [editor on GitHub](https://github.com/IOR-BIC/software/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The activities of the Bioengineering and Computing Laboratory (BIC) are finalized to study the biomechanics of the musculoskeletal system by using numerical modeling at different scales, from system to micro-structure.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We work in a close collaboration with the clinics to develop personalized models from diagnostic data, and software tools supporting modeling and clinical decision making.
+
+The strategic activities of the BiC Lab are:
+
+1. Development, validation and applications of musculoskeletal numerical models to predict muscular and joint loads, and bone mechanical strength from diagnostic imaging, in physiological and pathological conditions
+2. Development of software tools for computational bioengineering
+3. Development of Decision Support Systems for the clinics, such as solutions for surgical planning of complex skeletal reconstructions
 
 ### Markdown
 
@@ -26,12 +32,4 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IOR-BIC/software/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more details see [BIC official website](http://www.ior.it/en/dipartimento-rizzoli-rit/lab-bic/bic-laboratory).
