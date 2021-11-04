@@ -14,14 +14,14 @@ The strategic activities of the BiC Lab are:
 
 ### Applications
 
-![Image](/assets/images/App-nmsBuilder.png)
-![Image](/assets/images/App-HTO-Planner.png)
-
-![Image](/assets/images/App-Calcify2D.png)
-![Image](/assets/images/App-AssemblerPro.png)
-
-![Image](/assets/images/App-Classify3D.png)
-![Image](/assets/images/App-HipOp.png)
+<p float="left">
+  <img src="/assets/images/App-nmsBuilder.png" width="100" />
+  <img src="/assets/images/App-HTO-Planner.png" width="100" /> 
+  <img src="/assets/images/App-Calcify2D.png" width="100" />
+  <img src="/assets/images/App-AssemblerPro.png" width="100" />
+  <img src="/assets/images/App-Classify3D.png" width="100" /> 
+  <img src="/assets/images/App-HipOp.png" width="100" />
+</p>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
