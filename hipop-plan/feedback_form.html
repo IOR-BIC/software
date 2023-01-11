@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<title>Feedback Form</title>	
+
+<h1>Feedback Form</h1>
+
+<form method="post" action="send_mail.php">
+
+<p>
+<label>First Name
+ <input type="text" name="name" required="" placeholder="Name*" data-form-field="Name">
+</label> 
+</p>
+
+<p>
+<label>Email 
+  <input type="email" name="email" required="" placeholder="Email*" data-form-field="Email">
+</label>
+</p>
+
+<p>
+<label>Phone 
+	<input type="tel" name="phone" placeholder="Phone" data-form-field="Phone">
+</label>
+</p>
+
+<p>
+<label>Message
+<textarea name="message" rows="7" placeholder="Message" data-form-field="Message"></textarea>
+</label>
+</p>
+
+<p><button>Submit the form</button></p>
+</form>
