@@ -140,45 +140,10 @@
 			</div>
 
 			<div class="col-sm-9 col-sm-offset-0 mns-header">
-				<h3 class="mbr-header__text">Software overview</h3>
+				<h3 class="mbr-header__text">Overview</h3>
 			</div>
 		</div>
     </div>
-</section>
-
-<section class="mbr-section" id="content1-99">
-    <div class="mbr-section__container container mbr-section__container--middle">
-		<div class="col-md-6">						
-			<div class="row">
-				<div class="mbr-article mbr-article--wysiwyg col-sm-10 col-sm-offset-1">
-					<p class="spanned-text">
-						<ul><b>Major Features:</b>
-						<ul><li>DICOM Importer </li>
-						<li>4 display layouts with arbitrary slicing planes</li>
-						<li>Implant components Importer</li>
-						<li>Interactive positioning of the implants</li>
-						<li>Automatic and custom measurements</li>
-						<li>Creation of screenshots and reports</li>
-						</ul></ul></p><br>						
-				</div>	
-			</div>							
-		</div>
-		
-		<div class="col-md-6">
-			<div class="row">
-				<div class="mbr-article mbr-article--wysiwyg col-sm-10 col-sm-offset-1">
-					<p class="spanned-text">
-						<ul><b>Typical Workflow</b>
-						<ul><li>Import DICOM</li>
-						<li>Select Side of Prosthesis</li>
-						<li>Add Acetabular Prosthesis</li>
-						<li>Add Femoral Prosthesis</li>
-						<li>Perform 2D Measurements</li>
-						<li>Generate Report</li><br>
-						</ul></ul></p>
-				</div>
-			</div>
-		</div>
 </section>
 
 <section class="mbr-section" id="content1-97">
@@ -186,10 +151,46 @@
         <div class="row">
             <div class="mbr-article mbr-article--wysiwyg col-sm-10 col-sm-offset-1">								
 				<p class="spanned-text">
+					The following images describe a typical qSINS workflow to quantify the entity, density and intra-vertebral location of a metastatic lesion from CT or MRI data.<br><br>
+					1) Importing CT/MRI patient images in DICOM format.
 					<figure class="mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width">
-						<img class="mbr-figure__img" src="assets/images/Gui_small.jpg">
-					</figure><br><br>
-					The user can import CT images in the DICOM standard and possibly crop the images arbitrarily. 3D models of the implant components can be added to the database of prostheses. In the surgical planning, the acetabular and femoral components are imported according to the selected side of prosthesis.<br><br>The user can find and choose all the different components and parameters of the selected implant manufacturer, and can position the prostheses by interactively moving the components in the view area and/or by manually selecting translations and rotations.<br><br>There are 6 transverse slicing planes that can be arbitrarily moved to help improve the accuracy of prosthesis positioning and 2 additional transverse planes that allow a blend visualization of all CT slices from top to down. In addition, an arbitrary slice can be defined and moved to cut the prosthesis and improve positioning, including the default implant frontal plane.<br><br>The acetabular offset is automatically calculated and updated whenever the implant components are moved. Predefined and additional custom measurements are available. Screenshots are possible in any display layout and reports can be created, customized by the user and printed.
+						<img class="mbr-figure__img" src="assets/images/screenshots/Imm1.jpg">
+					</figure><br>
+					
+					2) Upon selecting “Operation Menu”, two operations are available: a straightforward one to measure bone mineral density on a vertebral body, and the “Classify3D” to evaluate a lesion. These operations are available also through dedicated icons that, if navigated from left to right in the icons bar, define the workflow.<br><br>
+					<figure class="mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width">
+						<img class="mbr-figure__img" src="assets/images/screenshots/Imm2.jpg">
+					</figure><br>	
+					
+					3) Defining the anatomical reference system: the operator defines the horizontal, sagittal and coronal axes  for subsequent lesion tracing.<br><br>
+					<figure class="mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width">
+						<img class="mbr-figure__img" src="assets/images/screenshots/Imm3.jpg">
+					</figure><br>
+					
+					4) Selecting a vertebral template (thoracic, in this case) composed vertebral body and posterior vertebral arch parts.<br><br>
+					<figure class="mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width">
+						<img class="mbr-figure__img" src="assets/images/screenshots/Imm4.jpg">
+					</figure><br>
+					
+					5) Morphing the template (vertebral body shown in this case), by moving, scaling, rotating and deforming the template.<br><br>
+					<figure class="mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width">
+						<img class="mbr-figure__img" src="assets/images/screenshots/Imm5.jpg">
+					</figure><br>
+					
+					6) Segmenting the lesion on the horizontal section, with a customisable brush tool.<br><br>
+					<figure class="mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width">
+						<img class="mbr-figure__img" src="assets/images/screenshots/Imm6.jpg">
+					</figure><br>
+					
+					7) Computing the volumetric report: olume, relative volume, density, and location of the lesion within the vertebra are automatically computed and can be saved on a file.<br><br>
+					<figure class="mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width">
+						<img class="mbr-figure__img" src="assets/images/screenshots/Imm7.jpg">
+					</figure><br>
+					
+					8) (optional) Fitting additional templates for the WBB and ESCC classification oif the lesion.<br><br>
+					<figure class="mbr-figure mbr-figure--adapted mbr-figure--caption-inside-bottom mbr-figure--full-width">
+						<img class="mbr-figure__img" src="assets/images/screenshots/Imm8.jpg">
+					</figure><br>
 				</p>
 			</div>
 		</div>
